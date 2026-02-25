@@ -1,5 +1,4 @@
-busybox:1.37.0
-neo4j:5.26.21
-neo4j:4.4.48
-rabbitmq:4.2-management
-rabbitmq:4.2-management-alpine
+postgres:18.2
+postgres:17.8
+postgres:16.12
+postgres:15.16
