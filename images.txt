@@ -1,4 +1,1 @@
-postgres:18.2
-postgres:17.8
-postgres:16.12
-postgres:15.16
+jenkins/jenkins:2.551-jdk21
