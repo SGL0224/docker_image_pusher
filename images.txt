@@ -1,3 +1,1 @@
 onlyoffice/documentserver:9.3.0
-onlyoffice/documentserver:10.0
-onlyoffice/documentserver:10.0.0.1
